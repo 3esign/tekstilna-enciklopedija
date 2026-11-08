@@ -1,0 +1,1010 @@
+{
+ "schema": "tekstilna-enciklopedija-foto/v1",
+ "generatedAt": "2026-11-08T14:01:53.642938Z",
+ "source": "inclusive-studio commit fdcbc90 (enciklopedija.html + assets/enc-foto), izmesteno 2026-11-08",
+ "originals": "C:\\Svemir\\data\\karantin-slika\\tekstilna-enciklopedija-originali-2026-11-08",
+ "maxSide": 1600,
+ "budgetBytes": 300000,
+ "files": [
+  {
+   "file": "aids-memorial-quilt.jpg",
+   "originalSha256": "3adc658b11836c19db9911ebb8a4a7b53f2ee5d4c38d15a17befc621ecc6825a",
+   "originalBytes": 463917,
+   "sha256": "48f4d274616f3b1c391bbe4d9008dad8b0a13cb421ee6ae2eb47087348beaa9f",
+   "bytes": 276615,
+   "width": 1280,
+   "height": 964,
+   "quality": 70
+  },
+  {
+   "file": "alexandra-kehayoglou.jpg",
+   "originalSha256": "26499b8c02f880d13f0ca4aaf5f68a978c7b6ec15fc92b3b3b668a60b80e89ec",
+   "originalBytes": 75365,
+   "sha256": "3bf96020ce8058cdfc3967c53e09bf26da66d3eecd64741ac3922ccaf52e389f",
+   "bytes": 70775,
+   "width": 960,
+   "height": 481,
+   "quality": 85
+  },
+  {
+   "file": "ambercycle-cycora.jpg",
+   "originalSha256": "0e972b6fb27a92fddf79f7c921402a7b78fea31e7a1208d335dcaaf0d41305cf",
+   "originalBytes": 66240,
+   "sha256": "4c78c92fcb3e307c55802110098d4b63fb6feefc015e6a229bd18ad50048860d",
+   "bytes": 102813,
+   "width": 1200,
+   "height": 630,
+   "quality": 85
+  },
+  {
+   "file": "arpilleras.jpg",
+   "originalSha256": "0afe4d2cd83d45189e32213ae40a1d53c110a4fa2e7001108e43953d251c21f1",
+   "originalBytes": 87014,
+   "sha256": "e3c3a35a7d187282c54656202405054d6564aa090ca73f4aa82bf4edf75c6ce6",
+   "bytes": 62194,
+   "width": 389,
+   "height": 419,
+   "quality": 85
+  },
+  {
+   "file": "artech-engineering-materijal-od-ostataka.jpg",
+   "originalSha256": "847072bf9c9fedaceee0d6f84b47ded4a8d6f8ce42a23530d98436f6baff9406",
+   "originalBytes": 248188,
+   "sha256": "08b1b6523acaf5bc0c3ca907d95b66f6b9fc09506c36b17a2f37912373de5701",
+   "bytes": 223995,
+   "width": 960,
+   "height": 719,
+   "quality": 85
+  },
+  {
+   "file": "atelier-repairs.jpg",
+   "originalSha256": "aed6976a2cc4750bfc606fea2c38ef42eac4bb5200e6d08c0ef1bd1ec85d1ff1",
+   "originalBytes": 578998,
+   "sha256": "c4e40406c88f25cc17cf175cc254f431ab07ffdcfae0b424b0b985afa74f5edc",
+   "bytes": 197750,
+   "width": 720,
+   "height": 719,
+   "quality": 65
+  },
+  {
+   "file": "bethany-williams.jpg",
+   "originalSha256": "f810ddb97f6c34e6d6a89220884a2ea1bf4e41f546d33ed0488ca83060c459a4",
+   "originalBytes": 405050,
+   "sha256": "74abc1c766d3c37458049a8fce3b76335422387628f133fdc0a79f1faa990cd3",
+   "bytes": 48190,
+   "width": 627,
+   "height": 484,
+   "quality": 85
+  },
+  {
+   "file": "beyond-retro.jpg",
+   "originalSha256": "3836bc56f8ec68f88167cb0791b8322db6dce88223772d6ad7516e69a554d282",
+   "originalBytes": 284460,
+   "sha256": "3698c07f8da0b6d5ff4366a6a30f3e5ce818a07f55045f56ab4a95c302464a05",
+   "bytes": 255434,
+   "width": 960,
+   "height": 552,
+   "quality": 85
+  },
+  {
+   "file": "biro-354c.jpg",
+   "originalSha256": "874a13cd0b0be59ead8e574a01488a20c2e37e1bcce291bcef1eb6e25448cf6d",
+   "originalBytes": 70170,
+   "sha256": "dc0eec14b4691ab5705c972f92c6c639d76c3af6b8c7c8cb30e1affb0a0c44b3",
+   "bytes": 65916,
+   "width": 960,
+   "height": 539,
+   "quality": 85
+  },
+  {
+   "file": "blocktexx.jpg",
+   "originalSha256": "35147663bf89666e80cf9df4bd6162fbc6bd2663b9e61fcdefc6ceb05e404ea3",
+   "originalBytes": 1001932,
+   "sha256": "ff9fb428b66894817c466c93c898d664bef148afc660046a1d6c82cc357b55c1",
+   "bytes": 87750,
+   "width": 1500,
+   "height": 836,
+   "quality": 85
+  },
+  {
+   "file": "blue-jeans-go-green.jpg",
+   "originalSha256": "7b3d0fbc47ca456f796e7c1d1cd71752a965e515a48f2e2c266e72b9a02284a6",
+   "originalBytes": 258971,
+   "sha256": "092e6710c6b3f11a4f4fe82086bd16bc72ce3bc9c14c19d41a68fe0280b33ebf",
+   "bytes": 227678,
+   "width": 1200,
+   "height": 630,
+   "quality": 85
+  },
+  {
+   "file": "bode.jpg",
+   "originalSha256": "6680a77f3f8029a47f18ff53642366aed6acd5eaca6d04adfc9477e17c03d622",
+   "originalBytes": 290019,
+   "sha256": "20af81f45eab681c6e2617441d1d05b4ec13c877aed6aac0ea846eaccf86fcef",
+   "bytes": 235294,
+   "width": 828,
+   "height": 1472,
+   "quality": 85
+  },
+  {
+   "file": "bonded-logic-ultratouch.jpg",
+   "originalSha256": "96b11f00b1739764080c39c3adcd4247eb34d341ccb1098ba72a95acbb8dcfc4",
+   "originalBytes": 239651,
+   "sha256": "324aea437c6e558ea74c4561e3b533706b6727aa8c493eff7de5a681c171e483",
+   "bytes": 220264,
+   "width": 960,
+   "height": 720,
+   "quality": 85
+  },
+  {
+   "file": "boro-japan.jpg",
+   "originalSha256": "17a2fa98c2ec304071dbf0576b65328970df85196398c83e50cadc2748e54bc9",
+   "originalBytes": 759850,
+   "sha256": "fa315c378e5f5f5eaec44c1e744e836582440591769769aa5bfa7fcf47b5492e",
+   "bytes": 220992,
+   "width": 720,
+   "height": 1120,
+   "quality": 65
+  },
+  {
+   "file": "centar-ponovne-upotrebe-reuse-centre.jpg",
+   "originalSha256": "53c1d9aa508070d47a5f16c01f0c9c1a115624e4643f2aa579b2e33cbc78ca8e",
+   "originalBytes": 362575,
+   "sha256": "7d319c8565bd5082106d41d34a4d1490ce2fd8d07f5edd412425b2033a6001f7",
+   "bytes": 93308,
+   "width": 600,
+   "height": 487,
+   "quality": 85
+  },
+  {
+   "file": "christian-boltanski-no-man-s-land.jpg",
+   "originalSha256": "b03158cc71b5519bd0ed3867a378d61892b3f20df9e1e21e7feb55d76f83bac3",
+   "originalBytes": 349072,
+   "sha256": "bb9a8c159030a3cecc71898bcf7058e3fd7ce3cae83acb4aa38ea373ba1e15bc",
+   "bytes": 279520,
+   "width": 960,
+   "height": 640,
+   "quality": 80
+  },
+  {
+   "file": "christopher-raeburn-r-burn.jpg",
+   "originalSha256": "e9e71b915b74c446e292835fa31da2fe4c3aa8330574221ecd885a81eed96df5",
+   "originalBytes": 225812,
+   "sha256": "4c81bf4b538aea6c51b5cb2bf50d2e1d43b64675a2c8e9456d27d4174c8208c2",
+   "bytes": 171922,
+   "width": 1600,
+   "height": 900,
+   "quality": 85
+  },
+  {
+   "file": "circ.jpg",
+   "originalSha256": "dd2d2211f1204a7a84ac7266b621df69a36511229aeed0ceb3a4555ec028c756",
+   "originalBytes": 63436,
+   "sha256": "4423e444948329e274157a240ed2cbbf0f683fee7f1fdd0d375e68fd534b9e36",
+   "bytes": 63715,
+   "width": 1200,
+   "height": 675,
+   "quality": 85
+  },
+  {
+   "file": "circular-systems-texloop.jpg",
+   "originalSha256": "2ad2cd4c238d19c507540a789c8de1416738ae7eb049f68b273ff9174be36b2e",
+   "originalBytes": 49868,
+   "sha256": "39b90bee9224cc63c54f95f8b11b3e248dc0ce6437af8a38caedcc9ac535ea11",
+   "bytes": 74480,
+   "width": 1125,
+   "height": 745,
+   "quality": 85
+  },
+  {
+   "file": "clothes-swap-day-swap-toolkit.jpg",
+   "originalSha256": "82296c74b1d6ec42faab5aaf3fcb9bb820cfa75f4c2a67df16f35b4fac38b8c3",
+   "originalBytes": 202074,
+   "sha256": "456ba046d3506620a30574ababade2877520e6765418ac85b4188d3de6ee2b9c",
+   "bytes": 185532,
+   "width": 960,
+   "height": 640,
+   "quality": 85
+  },
+  {
+   "file": "derick-melander.jpg",
+   "originalSha256": "419d498b1bddcb342197c2e6a2c1322814e75250706de2bf4db6954eead3b646",
+   "originalBytes": 90033,
+   "sha256": "d8ef84dafaa24ba7a985ac6d316d060b5e243c3448ed07b83d4d50c23bf7a38a",
+   "bytes": 92062,
+   "width": 800,
+   "height": 578,
+   "quality": 85
+  },
+  {
+   "file": "e-l-v-denim.jpg",
+   "originalSha256": "12e9b91ef2ae64570fc60f25aa898e4b78493cb61dd0b33b996f9134c2e98639",
+   "originalBytes": 7830864,
+   "sha256": "6536eaf8a767288383c395825a47ffe5c40e31f53d3f235025914e0830032414",
+   "bytes": 235951,
+   "width": 1200,
+   "height": 797,
+   "quality": 65
+  },
+  {
+   "file": "econyl-aquafil.jpg",
+   "originalSha256": "1cd0281ef2ba90eb53107bd10e227df2b0953ebaabbcf77daad6a9bef82e720d",
+   "originalBytes": 67046,
+   "sha256": "0a91caaaa25a25a586257cb92e98a6b009ef7959cea14d896a5f8b506f61e2a5",
+   "bytes": 69676,
+   "width": 700,
+   "height": 1000,
+   "quality": 85
+  },
+  {
+   "file": "eileen-fisher-renew.jpg",
+   "originalSha256": "6ce27e43a652ee00083fddf758f59aab13bd6606dca6c059c50b04278b6c2c2d",
+   "originalBytes": 229653,
+   "sha256": "4cd7fb66e5bc998518e7bca3d1993076328856e23ee63037055f80a32b17c33c",
+   "bytes": 24823,
+   "width": 352,
+   "height": 440,
+   "quality": 85
+  },
+  {
+   "file": "el-anatsui.jpg",
+   "originalSha256": "d894ebe2ff878348538ec4ab7fb8fb6a32e86907603a08bd2a68ded5b47ad0d9",
+   "originalBytes": 272239,
+   "sha256": "57c84820e713d291cf5e42ec6bcd4ca5aeb5878ff0382c4d793072ea3f87b0f9",
+   "bytes": 245459,
+   "width": 1280,
+   "height": 854,
+   "quality": 85
+  },
+  {
+   "file": "elvis-kresse.jpg",
+   "originalSha256": "789fdb2cf3fac421db503326f2e91ab616724eb2d0071186f81744194f5809a5",
+   "originalBytes": 208968,
+   "sha256": "1f4abd3fddc9c2d87e86861770f727f7dcff43a6866cedcb2a3402c8ef1a5028",
+   "bytes": 180471,
+   "width": 1200,
+   "height": 675,
+   "quality": 85
+  },
+  {
+   "file": "euromiteks-nis.jpg",
+   "originalSha256": "9ac948b08a6b227cf24182a03331a2c246faeb77bd70f33fa593cf9ef4d977eb",
+   "originalBytes": 238619,
+   "sha256": "10ce1824bce8012f594139f45f825c674ab92ba99b92e36d329a17cf9bb1255c",
+   "bytes": 213997,
+   "width": 960,
+   "height": 720,
+   "quality": 85
+  },
+  {
+   "file": "evrnu-nucycl.jpg",
+   "originalSha256": "9d8bb3dedbc6a226d7bef243e681d2a51818b1a10937c1bbdd92ac4ba9b1c41d",
+   "originalBytes": 140873,
+   "sha256": "ea6515752c08ff94ef98446accfcab7e97222160130692f5044014c693116e98",
+   "bytes": 17575,
+   "width": 400,
+   "height": 191,
+   "quality": 85
+  },
+  {
+   "file": "fabbrick.jpg",
+   "originalSha256": "d7cd9f6961a99f9ea10b8691ba1c919f839e685cdf63ff7d3a2396c64f2cbbc0",
+   "originalBytes": 2823709,
+   "sha256": "f27128ad73f45e1e14e3e358c8afb51a2c3970d810d81cef2ac2ccd376d59f13",
+   "bytes": 264826,
+   "width": 866,
+   "height": 1330,
+   "quality": 85
+  },
+  {
+   "file": "fabriqa-rs.jpg",
+   "originalSha256": "8ac4112c3649a39831d56577626c7a7125e25c9c90a04b66b9ce71cd4a56eed2",
+   "originalBytes": 577488,
+   "sha256": "e0ae58991464656911765857b246761e016ce687a80eb8a8fdff74a927f45fcd",
+   "bytes": 85409,
+   "width": 504,
+   "height": 630,
+   "quality": 85
+  },
+  {
+   "file": "fabscrap-materijal.jpg",
+   "originalSha256": "934c1297336745fa83c06c9acefe1f8585dcf3ac6695680e6fd63c6cb434f72e",
+   "originalBytes": 233141,
+   "sha256": "c50d4a8418901ea90f00399fc619b112f1dae03736c1c7b975aa560b06e482aa",
+   "bytes": 186595,
+   "width": 960,
+   "height": 591,
+   "quality": 85
+  },
+  {
+   "file": "fashion-for-good-sorting-for-circularity.jpg",
+   "originalSha256": "0828af9365285f5c3c8f9117284a7fd22d0ddb635d9b4194d7f1450e95c53be0",
+   "originalBytes": 203867,
+   "sha256": "9ba1db32fc45e43b82ba165d4e1e4b94c3d6248e21f96677153129771fb95017",
+   "bytes": 190386,
+   "width": 960,
+   "height": 720,
+   "quality": 85
+  },
+  {
+   "file": "fashion-revolution-haulternative.jpg",
+   "originalSha256": "ec199120325987cf70bb8f65ed0e6ad1fc232610e7989a9ddc6b80e685ab011d",
+   "originalBytes": 163007,
+   "sha256": "257beac392ba03763282bf838f2ec62c1a9fe5717a519c080316baef3b1ce888",
+   "bytes": 151643,
+   "width": 960,
+   "height": 720,
+   "quality": 85
+  },
+  {
+   "file": "freitag.jpg",
+   "originalSha256": "0fd7d883d47d665ad77c19e85918eae61f9b1a512128a6f6ea574d24af600001",
+   "originalBytes": 485349,
+   "sha256": "77a31c5a3e7abb8bbbd2e051be7dbfd8c6c990dca5ee3c6cbc854ff8d74ae1ad",
+   "bytes": 257564,
+   "width": 1067,
+   "height": 1600,
+   "quality": 80
+  },
+  {
+   "file": "gee-s-bend-quilts.jpg",
+   "originalSha256": "0baea59cdd421fa1e0e4a0b8e5a037be41228ac553a9418b79c3c7f7394ec440",
+   "originalBytes": 42782,
+   "sha256": "f8ad1605ae1e8e7ffc79273765d85aa1a857a96309ee2fd00ebc9ef893ec8d14",
+   "bytes": 12339,
+   "width": 225,
+   "height": 241,
+   "quality": 85
+  },
+  {
+   "file": "green-tex-interreg-danube.jpg",
+   "originalSha256": "0d116495c6f67aa4137776d9aab14e02beb44b2a38d49d6c025f5738deec9d61",
+   "originalBytes": 125336,
+   "sha256": "90896fce7ec51e02c47e2b92cb1e07b65560c7f91c3c87d164aa757df140fe7a",
+   "bytes": 141125,
+   "width": 1200,
+   "height": 900,
+   "quality": 85
+  },
+  {
+   "file": "hilaturas-ferre.jpg",
+   "originalSha256": "b285d3d40cb0c5a2c0a10089bbddb99c2f778ac86aa0ba456429cb00d923e268",
+   "originalBytes": 82443,
+   "sha256": "c83323576c40e1bdda57e7d189437faf4de324806ccccbb6dede2934f5cbcc0c",
+   "bytes": 82172,
+   "width": 800,
+   "height": 418,
+   "quality": 85
+  },
+  {
+   "file": "humana-nova.jpg",
+   "originalSha256": "3d8855ef467d5b1ecbba60d1c91d0493d8b06478f6cfb55ae1b80118647ccf23",
+   "originalBytes": 137815,
+   "sha256": "91d24d621a731ec8962aa75c1cf6594d4fcee568e34b68b3d62e168dbfe6a402",
+   "bytes": 120693,
+   "width": 1400,
+   "height": 933,
+   "quality": 85
+  },
+  {
+   "file": "infinited-fiber.jpg",
+   "originalSha256": "aa2d7ce5e11a3e340fa938f7bcab6941b237419f5e3323f7b79f993a781dc96d",
+   "originalBytes": 448941,
+   "sha256": "8fdc38811bdd0343e45210f289340e642726ce4151bd285cd38fa01b1f3eedd0",
+   "bytes": 216313,
+   "width": 1600,
+   "height": 1068,
+   "quality": 85
+  },
+  {
+   "file": "interface-net-works.jpg",
+   "originalSha256": "e6ab3fd48dd0fa9f856c9216a4c25b25adc230f1109f494744a721ae77ce5125",
+   "originalBytes": 28749,
+   "sha256": "33eb1ac251491a29d69eb5923f9af4dc49f15afcfa311dbdfb99f47dcd03c3a2",
+   "bytes": 36244,
+   "width": 566,
+   "height": 318,
+   "quality": 85
+  },
+  {
+   "file": "isolina-me-tisse.jpg",
+   "originalSha256": "e8783f17497e57a785d9850cdfb853a1970d58027a062d5fa9417cc33593d094",
+   "originalBytes": 19696,
+   "sha256": "a8b747c5ccacf884ac803bbb9bc14215f93e9f9cd81ca27a0660342e2b5d2861",
+   "bytes": 20695,
+   "width": 329,
+   "height": 232,
+   "quality": 85
+  },
+  {
+   "file": "kantha.jpg",
+   "originalSha256": "0b1fd858c21becdf965859d336098c4c6feedec2011663fba580a449d174277b",
+   "originalBytes": 753815,
+   "sha256": "46cc617c77e9544dbb4d184f66e9fee28d3c1bd6f100273ff29ad7244074fc06",
+   "bytes": 247779,
+   "width": 960,
+   "height": 1000,
+   "quality": 65
+  },
+  {
+   "file": "kvadrat-really-raw-edges.jpg",
+   "originalSha256": "4b88c2acf945de8557aa86445e7f344045d06156a751b7260636f32826875abd",
+   "originalBytes": 219274,
+   "sha256": "84d2716df200d46222c78708a25a8f1ef5be3c822b8d60461e11a38a3214776d",
+   "bytes": 201849,
+   "width": 960,
+   "height": 720,
+   "quality": 85
+  },
+  {
+   "file": "le-relais.jpg",
+   "originalSha256": "11a561538e03d107f6e87507db9f781778fad8c507a75a8c503fc2ed9b9a1a36",
+   "originalBytes": 886275,
+   "sha256": "83f7636f4c6bbdd344b0a3b17095c26ab208e3fd9c9449cee81e41a4fe699947",
+   "bytes": 245414,
+   "width": 900,
+   "height": 1200,
+   "quality": 65
+  },
+  {
+   "file": "lena-fashion-library.jpg",
+   "originalSha256": "882c1396b13d39076e266ad7f3ceff498f78b699f865b44e8505afbc47a8a622",
+   "originalBytes": 425496,
+   "sha256": "1d2b84da41ac442b1d0d19f6c0c803878f5fbd488cae38f1a7c5c8ed90d41c20",
+   "bytes": 235385,
+   "width": 1280,
+   "height": 960,
+   "quality": 70
+  },
+  {
+   "file": "lenzing-refibra.jpg",
+   "originalSha256": "55af07476cda7f63236cca395a7f731b0c03f7780d2e9d738fb33b9b19c5687e",
+   "originalBytes": 193665,
+   "sha256": "388e03a64dea3dd39abf7fe5ebacce7c02fe2b476b8bc0d7a8280a9deefd6ea4",
+   "bytes": 180836,
+   "width": 960,
+   "height": 720,
+   "quality": 85
+  },
+  {
+   "file": "loop-swap-clothing-swap.jpg",
+   "originalSha256": "8f8d54262534e2b6b1a7f8df442e1b5870ca22f57e85aa4d8dde01013eef4f02",
+   "originalBytes": 167812,
+   "sha256": "a964759b1cabe07af0b07be5a2d2ebe62b92b975d936cf7e22e65e5020907f34",
+   "bytes": 156980,
+   "width": 960,
+   "height": 640,
+   "quality": 85
+  },
+  {
+   "file": "looptworks.jpg",
+   "originalSha256": "885cb1767e085349754ca92054da8e2b32bdd48b8203f8b97531712f2902ad78",
+   "originalBytes": 1140739,
+   "sha256": "4325a9975225cbcad74f5fac6b8eb7cb491a2da83bafa1c00024b5e3720ee022",
+   "bytes": 214913,
+   "width": 1318,
+   "height": 830,
+   "quality": 85
+  },
+  {
+   "file": "manteco.jpg",
+   "originalSha256": "29e0460959b470fa51c81cd2d5ece11d94d0ffda5eb4eda8f21b733057dffbeb",
+   "originalBytes": 486305,
+   "sha256": "4e350db1e1811032e77c8cb9ebb48b29195b1adb564a5277420c8029367d76b9",
+   "bytes": 262308,
+   "width": 960,
+   "height": 1272,
+   "quality": 70
+  },
+  {
+   "file": "marine-serre-regenerated.jpg",
+   "originalSha256": "a3008b5d709e967a35e74b23f0df46c4df95c8cc86d3dd52b79c90858a072eec",
+   "originalBytes": 267034,
+   "sha256": "698b48c640795d481b577d6dba03b40b41408d0fcc3b852601ce2037e705a31b",
+   "bytes": 204633,
+   "width": 1200,
+   "height": 580,
+   "quality": 85
+  },
+  {
+   "file": "mola.jpg",
+   "originalSha256": "5858c32e484fe2cc9d1a691449730dc71f6bd71b7f7d8bea55ef210afbd061ba",
+   "originalBytes": 559608,
+   "sha256": "421ab1094d2017692552f81eda9594258f3c5a8bf0bd857b1555a45b7ca002ab",
+   "bytes": 294687,
+   "width": 1280,
+   "height": 852,
+   "quality": 60
+  },
+  {
+   "file": "mud-jeans.jpg",
+   "originalSha256": "f98519f792faf0d00f059f370bed070cfed3c1ca84ba7fba33d9ed41bb10f3d0",
+   "originalBytes": 133234,
+   "sha256": "c4558b044a044124b31fddc8611adea424c98ac0523e507de5cb1d5508159a9d",
+   "bytes": 20297,
+   "width": 340,
+   "height": 192,
+   "quality": 85
+  },
+  {
+   "file": "nick-cave-soundsuits.jpg",
+   "originalSha256": "1c6bce2374f798e48cc1fac4233153b3fb5e5af881fdf051002b7754767b4678",
+   "originalBytes": 613035,
+   "sha256": "9d976bb2afab7b3f6995c99d4eb3c73328a9f8bcfc8012b3899c601d6cf69a0c",
+   "bytes": 207441,
+   "width": 567,
+   "height": 1600,
+   "quality": 85
+  },
+  {
+   "file": "novitet-z-itkovac.jpg",
+   "originalSha256": "e72c8bec89d17b4261455f3d8619d640284d55aeffafa3c39e64150a77a8671e",
+   "originalBytes": 734471,
+   "sha256": "b8007f31a491ac149f952ae653e7af4be56fd5888c76dd3e17d719e4e0f58722",
+   "bytes": 85550,
+   "width": 789,
+   "height": 549,
+   "quality": 85
+  },
+  {
+   "file": "nudie-jeans-popravka.jpg",
+   "originalSha256": "ba9a509d431df85f79848dee78ee809cd89610b55a5503ee349d59696e4fcb0d",
+   "originalBytes": 1426927,
+   "sha256": "9185ac562373a1768d939f29a8224fa26f950581f11bc06110a470b5a52605cc",
+   "bytes": 282232,
+   "width": 1200,
+   "height": 1600,
+   "quality": 70
+  },
+  {
+   "file": "patagonia-recrafted.jpg",
+   "originalSha256": "9be4aba2f1ef05b3fd2085d8e84e3e3b1773dcd29e51d55163367a5fd5ce55ee",
+   "originalBytes": 20492,
+   "sha256": "b9669893b58badbcbfa2e9c3d30f645462f5b19cb0df181cfc6edb5852903be1",
+   "bytes": 21327,
+   "width": 334,
+   "height": 287,
+   "quality": 85
+  },
+  {
+   "file": "patagonia-worn-wear.jpg",
+   "originalSha256": "7029180c8dfcca6c25affbb88a34acc86dbd174ddd0e314041a29cf1f5baa21c",
+   "originalBytes": 37816,
+   "sha256": "32074b864cbeadccb56375705018f095e69f08cda21ee3acb3d5d1d92dfe9fd1",
+   "bytes": 42174,
+   "width": 800,
+   "height": 450,
+   "quality": 85
+  },
+  {
+   "file": "pentatonic.jpg",
+   "originalSha256": "7d7d5debb791aee0dd95f595e39a0c98ccf47fd1fdb77d11236da43391d67e5d",
+   "originalBytes": 278370,
+   "sha256": "219628d1f62c061bd4e2ceff30fd2c390f67743aae9e2accc164e89e6b7cfbce",
+   "bytes": 260388,
+   "width": 960,
+   "height": 1335,
+   "quality": 85
+  },
+  {
+   "file": "prato-cardato-riciclato.jpg",
+   "originalSha256": "a95e48a92794ce6da7101fe79981d8d76407ada9b87b650590062e900886fe99",
+   "originalBytes": 138095,
+   "sha256": "746dad5a1205836c8c8e7e89d3fbb1be177d508f50435da20a41b4c7bebe0439",
+   "bytes": 143968,
+   "width": 800,
+   "height": 800,
+   "quality": 85
+  },
+  {
+   "file": "probudi-vjes-tinu-novska.jpg",
+   "originalSha256": "fd73bde4b62e230683f0bb7941cb3ab3ee32bed372f657167f671dc450424cc6",
+   "originalBytes": 99828,
+   "sha256": "4659faf9eca6754ba9da932fc4ade5620156b5e472cec75769b48146272b74e6",
+   "bytes": 82619,
+   "width": 820,
+   "height": 360,
+   "quality": 85
+  },
+  {
+   "file": "pure-waste.jpg",
+   "originalSha256": "3a908d1ae30af21c0598bb26679a9ee6f9336f8a36d9249cd98e5006356217ab",
+   "originalBytes": 291600,
+   "sha256": "f06a1d050dacd35b8d8773ef8a9c1f79a4028fd4ebe691725734901de49eb660",
+   "bytes": 255617,
+   "width": 1600,
+   "height": 900,
+   "quality": 85
+  },
+  {
+   "file": "rag-rug-krpare.jpg",
+   "originalSha256": "791930789c026ebda99512429e09d99e6e33345be0f30937c81c63886b692dea",
+   "originalBytes": 427267,
+   "sha256": "85bedf44e2afc106294802aa45d0e7bcf71036cff851765bceb8b982eeccb037",
+   "bytes": 296250,
+   "width": 1280,
+   "height": 1148,
+   "quality": 75
+  },
+  {
+   "file": "rave-review.jpg",
+   "originalSha256": "f4f25be703ec03441c1ff3cdcc61ca87481dbe55c07209f47080b3c012993722",
+   "originalBytes": 158406,
+   "sha256": "68a724bc2b8400b5f8c7cfdfa25c4704e991b0c05a73ea5150789c6b4ff64305",
+   "bytes": 146846,
+   "width": 960,
+   "height": 570,
+   "quality": 85
+  },
+  {
+   "file": "re-done.jpg",
+   "originalSha256": "c4b1424c145c4814088f99fe727d54e7e1ab9331b1c46a733c210be02154fe98",
+   "originalBytes": 693128,
+   "sha256": "92ca5b95cb5c73a7e923fc0a4748e358a930ec59c597d794a786ca7205793683",
+   "bytes": 65332,
+   "width": 500,
+   "height": 887,
+   "quality": 85
+  },
+  {
+   "file": "really-kvadrat.jpg",
+   "originalSha256": "7096b084c4ae937a437f1b51fd485f2b33423eeb6eb13d7ab7b11fca5d942504",
+   "originalBytes": 276959,
+   "sha256": "e8763c590a0398f54065c72153069686b39f037ca176ec178916e227bad25dc0",
+   "bytes": 64239,
+   "width": 800,
+   "height": 600,
+   "quality": 85
+  },
+  {
+   "file": "recover.jpg",
+   "originalSha256": "3fac86ba565da8249e874ad100270d1a48c0640aa12c56c059b2ef9cfbee2d38",
+   "originalBytes": 76947,
+   "sha256": "5d5cf5cb12ca4967be8976004f19ff81f0c856181718f15095eacf7bae3b83b5",
+   "bytes": 76937,
+   "width": 851,
+   "height": 500,
+   "quality": 85
+  },
+  {
+   "file": "remake-love-your-clothes-wrap.jpg",
+   "originalSha256": "aaa1e22f89be93d7b1753858e7a97696e15ad46c2c86ecd5b6517aa7f3be9794",
+   "originalBytes": 59995,
+   "sha256": "f97172b391f38f8fc71efcb9206d7cbbf9873c63d283af8a17c0637b199f320e",
+   "bytes": 33830,
+   "width": 642,
+   "height": 426,
+   "quality": 85
+  },
+  {
+   "file": "renewal-workshop.jpg",
+   "originalSha256": "25e86754bd49d4e310149bccf92f4033d9fd18df64dc21d1248849aa6d2c8451",
+   "originalBytes": 98866,
+   "sha256": "c8387c18f78851e8ab13c8353f1156d2688a759ed42929ee439773fc41dd50e4",
+   "bytes": 22632,
+   "width": 500,
+   "height": 343,
+   "quality": 85
+  },
+  {
+   "file": "renewcell-circulose.jpg",
+   "originalSha256": "585b10ce969507521fd8ef744f516374c51fa3b993a330edca8455b87076bf3f",
+   "originalBytes": 724666,
+   "sha256": "d1ca0be82f08682596f705a4b8d3d2ff98b70808e66328d83c70c1c2f5fb075f",
+   "bytes": 124303,
+   "width": 1200,
+   "height": 630,
+   "quality": 85
+  },
+  {
+   "file": "rent-the-runway.jpg",
+   "originalSha256": "160400cf6b21734a4c88065d9755ab17b0f1463a54c8ed9d89fd625d1ad8470a",
+   "originalBytes": 1628091,
+   "sha256": "5e18b968583fe7f5ad54a944655c0d8d9de1b931b95d9b5524894f56fc6a4b6b",
+   "bytes": 167842,
+   "width": 800,
+   "height": 1200,
+   "quality": 85
+  },
+  {
+   "file": "repair-cafe.jpg",
+   "originalSha256": "8f13b113ff62217bcf177588887005bb181d1652c54530289a5054161d108b15",
+   "originalBytes": 297866,
+   "sha256": "300eb4189319cf4f8e9a984fda7243a7e015e2d29617d0c0dfc6bab2332af3de",
+   "bytes": 275426,
+   "width": 960,
+   "height": 1164,
+   "quality": 85
+  },
+  {
+   "file": "resortecs.jpg",
+   "originalSha256": "bee9ad5ad45f64a91146d518c86629126e020fea9e650823727fb75d8d9012cb",
+   "originalBytes": 237080,
+   "sha256": "950386157d32104b44bb87024deeaa1a818e06275cecec50580363f074f1f8f3",
+   "bytes": 208027,
+   "width": 1333,
+   "height": 900,
+   "quality": 85
+  },
+  {
+   "file": "reverse-resources.jpg",
+   "originalSha256": "d1f519e89656c5a491474b4c0e903e73fa8fecaccbf32b7920d2ef58ea477e51",
+   "originalBytes": 272834,
+   "sha256": "2fcc4d94e11de2499c1ba4354b1ea2cac1e52eac2ff79cd9e689a7be18148d5d",
+   "bytes": 253764,
+   "width": 960,
+   "height": 1440,
+   "quality": 85
+  },
+  {
+   "file": "rewoven-retex.jpg",
+   "originalSha256": "f697baa69b2517dd3358a9b191e6845694ded9acd4046fb0f1d4f089e44ab9ce",
+   "originalBytes": 672013,
+   "sha256": "cf101d7df8c24300bb8f1a1be2cf402e00fc249c3fdf406cc1cbc1bf4f38b76e",
+   "bytes": 269106,
+   "width": 720,
+   "height": 1600,
+   "quality": 75
+  },
+  {
+   "file": "rifo.jpg",
+   "originalSha256": "c5c5be156cb489e4e7179ba81cf22e5d821f2f297bce99872c5dea82f00bb448",
+   "originalBytes": 45690,
+   "sha256": "2db96cc9ab190371f8a78a306279483e6cd6947f8836417b29524bcadeba5a04",
+   "bytes": 32142,
+   "width": 400,
+   "height": 351,
+   "quality": 85
+  },
+  {
+   "file": "sashiko.jpg",
+   "originalSha256": "fc11fdf79ba3d4981358556eb196056dc2108cf7a7aa16f91190f1996e2833b5",
+   "originalBytes": 124901,
+   "sha256": "332b4ae464e2db6b3ebcd852cef3bf93589204a6e3e828d8b63cc77308d5b62f",
+   "bytes": 122358,
+   "width": 485,
+   "height": 720,
+   "quality": 85
+  },
+  {
+   "file": "so-dra-oncemore.jpg",
+   "originalSha256": "0a80aa44749877d2680b328a4dd932a059d2e4bec21ab00b0fbe74a41997e36c",
+   "originalBytes": 366278,
+   "sha256": "2c00560a7a0e3abfaacf091e6c966228efe64c23bcd26adce5e5a25bd922af20",
+   "bytes": 289742,
+   "width": 960,
+   "height": 797,
+   "quality": 80
+  },
+  {
+   "file": "soex-i-co.jpg",
+   "originalSha256": "4f0ea6d2af091c208cc724a6f53a0c5e141b5650df92257f8901de8528885d39",
+   "originalBytes": 210823,
+   "sha256": "799b18104125b245407c8098ecc04cd5ba37cce69d9743cae071e85eeb045daf",
+   "bytes": 194130,
+   "width": 960,
+   "height": 720,
+   "quality": 85
+  },
+  {
+   "file": "sojo.jpg",
+   "originalSha256": "a5b6bf84133e5e71f8e50835eabd05bfb5475484be4a5716079fc66a66fc4961",
+   "originalBytes": 6047354,
+   "sha256": "fd04f982ae275d7d020dd7a45643b0799bf856dc49f001b249ee3f225fbda2ce",
+   "bytes": 159531,
+   "width": 1600,
+   "height": 810,
+   "quality": 85
+  },
+  {
+   "file": "somborske-s-najderke.jpg",
+   "originalSha256": "f60677de052cd6f14507f934f8186a4d1a2f8a83362d8ca29760282d9cb81b9b",
+   "originalBytes": 125441,
+   "sha256": "e174ce882b34bc8b627b3bab3cd28e5c8691d760681d0cb46d05870c699246e8",
+   "bytes": 116682,
+   "width": 960,
+   "height": 720,
+   "quality": 85
+  },
+  {
+   "file": "spinnova.jpg",
+   "originalSha256": "2b1b2d655e4923ba6f4d49cec17ce1ff5fdb88fb46ff38ed86230ac976c6bda9",
+   "originalBytes": 1167456,
+   "sha256": "198ae2ead9265c6d20f99c72ccbb1a4fa340dc3fc7895e92ee53eb26384bb9aa",
+   "bytes": 154044,
+   "width": 1600,
+   "height": 1067,
+   "quality": 85
+  },
+  {
+   "file": "sport-vision-spildpro.jpg",
+   "originalSha256": "71bfc59eedb6a6efefbfd8a72c0b97b5aeb37652f7d0db082086140cc98656f9",
+   "originalBytes": 180975,
+   "sha256": "3161ff6bf3b126dec9d9f94f73af2708fe88d5cc0f659d128521c66e44705db7",
+   "bytes": 167418,
+   "width": 960,
+   "height": 720,
+   "quality": 85
+  },
+  {
+   "file": "studio-tjeerd-veenhoven.jpg",
+   "originalSha256": "f9f91dcb8aebe45b3a459b3ec2df755da0afe7fabc28d9695a20571575eb4deb",
+   "originalBytes": 198511,
+   "sha256": "8629dc87fe40efb647eab5d6b8c62d4457de10d45389453493b718abae6e89d4",
+   "bytes": 42352,
+   "width": 567,
+   "height": 567,
+   "quality": 85
+  },
+  {
+   "file": "syre.jpg",
+   "originalSha256": "a3f6cfdacf0d08db089a516034c90d8b782f733e07e2180aefe6395b2d5b949b",
+   "originalBytes": 1514422,
+   "sha256": "a7e8139df4805f419ebd3b60e27909ebefdf65e6d46b2d0e77ba462a681bf9bb",
+   "bytes": 264286,
+   "width": 1200,
+   "height": 630,
+   "quality": 85
+  },
+  {
+   "file": "texaid.jpg",
+   "originalSha256": "a2866c1101e8b95c03533771309a477d70b1c85e97a224e8542a526adffe8ba4",
+   "originalBytes": 382389,
+   "sha256": "0e7084b396694cf691c994870a217b821b6f1c6563f7c70e2f4b48a50a73bc8c",
+   "bytes": 278024,
+   "width": 960,
+   "height": 1441,
+   "quality": 75
+  },
+  {
+   "file": "the-or-foundation.jpg",
+   "originalSha256": "cb287913f22891943ee3cb05dd4d30bc2984332663edbdd45671b9715e099c69",
+   "originalBytes": 240466,
+   "sha256": "54fab6bf5c951c2141e8500a3f277956d15e76340ea9ae4d828d5dbe8e1865d8",
+   "bytes": 217999,
+   "width": 960,
+   "height": 643,
+   "quality": 85
+  },
+  {
+   "file": "the-realreal.jpg",
+   "originalSha256": "17e87dd1de2565043177bd8be01d37880a64521ae984c62f2944b7841842b315",
+   "originalBytes": 1081380,
+   "sha256": "be1ccd75f3ffa3d0fb56fa0502596f14ffc271a62799b26e54dcc469f02350a7",
+   "bytes": 139314,
+   "width": 960,
+   "height": 720,
+   "quality": 85
+  },
+  {
+   "file": "the-restory.jpg",
+   "originalSha256": "e72733066d81ad5a4a9afeb5679b1efcb98c11b3677ac2a1c540cc268cfbf4ec",
+   "originalBytes": 400083,
+   "sha256": "0fc9b2e5a2de57c48aece5fc6c22cbd90580c61fe47b886ce2b0891c795d1839",
+   "bytes": 231568,
+   "width": 960,
+   "height": 1275,
+   "quality": 70
+  },
+  {
+   "file": "thredup.jpg",
+   "originalSha256": "f95f8b3d4ec33d5ea22a861b38fa31d55c594d121f7a2afb4ffb5cd5cad476ef",
+   "originalBytes": 181293,
+   "sha256": "687b25298772ccd5ee89756c56c88dcec2c802a215eef2ef4abd32c016544d5b",
+   "bytes": 167240,
+   "width": 960,
+   "height": 720,
+   "quality": 85
+  },
+  {
+   "file": "toast-repair-circle.jpg",
+   "originalSha256": "a4569f9e703ed555f329022d23b2f0c4394ed14e538f0306506fd01c4a417489",
+   "originalBytes": 78552,
+   "sha256": "913aaaa255bbac925f981d347bee0c7b68cbc111dd76c6fd32d114073bd80bd9",
+   "bytes": 58869,
+   "width": 500,
+   "height": 625,
+   "quality": 85
+  },
+  {
+   "file": "tonle.jpg",
+   "originalSha256": "8487a5f7e9f933f6213b9ed89acee441ef0d6370ba0ede9065e89ba38b7778b4",
+   "originalBytes": 188217,
+   "sha256": "a79fcc5f7bede99822e399ad0b4bacbabca02f2a603fbba623a076baf7cb0e32",
+   "bytes": 136265,
+   "width": 1600,
+   "height": 698,
+   "quality": 85
+  },
+  {
+   "file": "uff-humana.jpg",
+   "originalSha256": "b7687b274badb795dde7c644c1a365a74111de0efa3913d4e29a32d1d969a6e1",
+   "originalBytes": 334252,
+   "sha256": "b61a03c9b2a3946220f8ec5de529e9d75874effa54d4e3f8973dda53dd2d714d",
+   "bytes": 273788,
+   "width": 960,
+   "height": 1440,
+   "quality": 80
+  },
+  {
+   "file": "valvan-fibersort.jpg",
+   "originalSha256": "dc0fa0ac91fec812f4c64d88063e469e50ea5d4d9ef49e5183e349b47b2220c3",
+   "originalBytes": 212107,
+   "sha256": "ed986bec5b2288f5dca567d59e1294702d7c8e8692875c37fcbff503ef642882",
+   "bytes": 196164,
+   "width": 960,
+   "height": 924,
+   "quality": 85
+  },
+  {
+   "file": "vinted.jpg",
+   "originalSha256": "df3f60f462304a321d95ba2cfb24f656d07a8119e26771e6cf2c6fe791a6ec1b",
+   "originalBytes": 68852,
+   "sha256": "562c8b0ab2c7c31be6b1953b73879ab0e37a77da26928c5a81326e6344874ca7",
+   "bytes": 63857,
+   "width": 1200,
+   "height": 630,
+   "quality": 85
+  },
+  {
+   "file": "waste-studio-studio-nienke-hoogvliet.jpg",
+   "originalSha256": "cc8b7a640514825a1fd0e9a5324299b6a99be2ea852601fcd0d1776ccf83b322",
+   "originalBytes": 81468,
+   "sha256": "7f2c9f50ce02fa2e55eae71b8919cbcef8b40547ffca7d57636e59e50f183e56",
+   "bytes": 84272,
+   "width": 683,
+   "height": 1024,
+   "quality": 85
+  },
+  {
+   "file": "woolcool.jpg",
+   "originalSha256": "077b2a77eb4bda7fd04438b4e9e868dbca948ca1df185538bbaeb120c2a58c0d",
+   "originalBytes": 164314,
+   "sha256": "33b06a8ada095b5f0d6186de1b8a85b6eef4b786f4f308a4947bfa78ded1e146",
+   "bytes": 188992,
+   "width": 1600,
+   "height": 1067,
+   "quality": 85
+  },
+  {
+   "file": "worn-again.jpg",
+   "originalSha256": "63bcd5b4a18208f9b86eab1cf0e4b4f4e0d7dc56f6f7d279b3527f9ab3ed2556",
+   "originalBytes": 120074,
+   "sha256": "480d653db9267dba13fa79c0728b95ae933d6b524e09dadb654d0b52891f31a0",
+   "bytes": 145985,
+   "width": 688,
+   "height": 796,
+   "quality": 85
+  },
+  {
+   "file": "woven-image.jpg",
+   "originalSha256": "10593a8cf047acb2cadc8a2022de86e0e91159314539a52571fe241dd15f8828",
+   "originalBytes": 159543,
+   "sha256": "53be7ba2e874908495c7a64b3d464c87f9c1923be4189057ab8bc1e2df77246a",
+   "bytes": 145909,
+   "width": 960,
+   "height": 654,
+   "quality": 85
+  },
+  {
+   "file": "zadruga-dobrote.jpg",
+   "originalSha256": "795bd0039b13b454ae0989ebb3dd4d5b743c5c5c5ec0d51baa42c29ed4b1ae3e",
+   "originalBytes": 315803,
+   "sha256": "ada5fdccbc6a84d733b10aba8a4301df451425a86ef32680b46ec010350abd05",
+   "bytes": 256831,
+   "width": 1200,
+   "height": 628,
+   "quality": 85
+  },
+  {
+   "file": "zero-waste-daniel.jpg",
+   "originalSha256": "74a7607baca50e9ae2685588fae2c37a9a6b36226548660ad865fe7455f42e65",
+   "originalBytes": 27668,
+   "sha256": "f37f89d2525a4585c8064259d91964549f8f1ce28e502a97a26426340a6e6d8c",
+   "bytes": 4911,
+   "width": 375,
+   "height": 139,
+   "quality": 85
+  }
+ ]
+}
