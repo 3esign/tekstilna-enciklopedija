@@ -1,0 +1,22 @@
+{
+  "kit": "svemir-project-kit/v1",
+  "name": "tekstilna-enciklopedija",
+  "description": "Javna enciklopedija 100 projekata iz tekstilnog otpada; izmesteno iz inclusive-studio 08.11.2026; GitHub Pages",
+  "created": "2026-11-08T14:02:28.985Z",
+  "updated": "2026-11-08T14:02:28.985Z",
+  "status": "active",
+  "phases": [],
+  "currentPhase": null,
+  "nextMove": "",
+  "registration": {
+    "status": "registered",
+    "path": "C:\\Svemir\\data\\project_kits.jsonl",
+    "at": "2026-11-08T14:02:29.012Z"
+  },
+  "stats": {
+    "log": 1,
+    "terms": 0,
+    "kb": 0,
+    "handoffs": 0
+  }
+}
